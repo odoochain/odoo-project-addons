@@ -11,7 +11,7 @@
     "category": "Other",
     "summary": "Install all addons required for testing.",
     "depends": [
-
+        "project_stage_no_quick_create",
     ],
     "installable": True,
 }
