@@ -41,9 +41,11 @@ COPY project_material_progress  /mnt/extra-addons/project_material_progress
 COPY project_material_quantity_filters  /mnt/extra-addons/project_material_quantity_filters
 COPY project_milestone_enhanced  /mnt/extra-addons/project_milestone_enhanced
 COPY project_milestone_estimated_hours  /mnt/extra-addons/project_milestone_estimated_hours
+COPY project_milestone_remaining_hours  /mnt/extra-addons/project_milestone_remaining_hours
 COPY project_milestone_spent_hours  /mnt/extra-addons/project_milestone_spent_hours
 COPY project_milestone_start_date  /mnt/extra-addons/project_milestone_start_date
 COPY project_milestone_time_report  /mnt/extra-addons/project_milestone_time_report
+COPY project_milestone_type  /mnt/extra-addons/project_milestone_type
 COPY project_milestone_time_kpi  /mnt/extra-addons/project_milestone_time_kpi
 COPY project_milestone_timeline  /mnt/extra-addons/project_milestone_timeline
 COPY project_no_quick_create  /mnt/extra-addons/project_no_quick_create
@@ -53,6 +55,7 @@ COPY project_portal_hide_timesheets  /mnt/extra-addons/project_portal_hide_times
 COPY project_portal_no_subtask  /mnt/extra-addons/project_portal_no_subtask
 COPY project_portal_parent_task  /mnt/extra-addons/project_portal_parent_task
 COPY project_remaining_hours_update  /mnt/extra-addons/project_remaining_hours_update
+COPY project_role_milestone  /mnt/extra-addons/project_role_milestone
 COPY project_stage  /mnt/extra-addons/project_stage
 COPY project_stage_allow_timesheet  /mnt/extra-addons/project_stage_allow_timesheet
 COPY project_stage_no_quick_create  /mnt/extra-addons/project_stage_no_quick_create
